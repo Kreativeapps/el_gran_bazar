@@ -1,0 +1,43 @@
+.barra-superior{
+  min-height: 4rem;
+}
+.logo{
+  width: 40px;
+  margin-top: 0.5rem;
+  float: left;
+}
+.buscar-campo{
+  float: left;
+  margin-left: 1rem;
+  margin-top: 0.5rem;
+  width: 70%;
+}
+.barra-superior .row{
+  margin-bottom: 0;
+}
+.contenedor-botones{
+  margin-top: 1rem;
+}
+#publicacion-texto{
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  resize: none;
+  border: 1px solid #ff8f00;
+  background-color: #ff8f00;
+  height: 5rem;
+  color: #fff;
+}
+#ofertas{
+  min-height: 300px;
+}
+#ofertas img{
+  max-width: 100%;
+}
+.section-header h1{
+  font-size: 20px:
+}
+@media (max-width: 600px) {
+  .columna-grupos{
+    padding: 0 !important;
+  }
+}
